@@ -1,0 +1,7 @@
+*.pt
+*.zip
+*.pth
+*.pyc
+*.tar
+*.tar.gz
+Train_Custom_Dataset-main/
